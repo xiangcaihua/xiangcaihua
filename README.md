@@ -15,12 +15,20 @@ This is **Cai**, backend developer at [HYPERS Inc](https://hypers.com/).
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - ![bungee](https://xiangcaihua-blog.oss-cn-shanghai.aliyuncs.com/pic-go/bungee.svg) Ask me about ... -->
 
-### :octocat: My GitHub Stats
+### :octocat: GitHub stats
 
-[![RunningZyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=runningzyp&?count_private=true&show_icons=truee)]()
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=runningzyp&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runningzyp&hide_title=true&hide_border=true&layout=compact&langs_count=5" />
+  <img height="177px" src="http://github-readme-streak-stats.herokuapp.com?user=runningzyp&hide_border=true" />
+     
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runningzyp&hide=php,mako&layout=compact)]()
+<!-- [![RunningZyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=runningzyp&?count_private=true&show_icons=truee)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runningzyp&hide=php,mako&layout=compact)]() -->
 
 
 <!-- ### :calendar: Plan ### -->
 
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=runningzyp&hide_border=true)]() -->
